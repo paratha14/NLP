@@ -1,4 +1,4 @@
-```
+
 # NLP
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
@@ -143,4 +143,3 @@ If you have any questions or feedback, feel free to reach out:
 *   **GitHub Profile:** [github.com/your-username](https://github.com/your-username)
 
 ---
-```
