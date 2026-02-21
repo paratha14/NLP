@@ -134,12 +134,4 @@ Contributions are welcome! If you have suggestions for improvements, new noteboo
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details (if you plan to add one, otherwise remove this line).
-
-## 📧 Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-*   **Your Name** - [your-email@example.com](mailto:your-email@example.com)
-*   **GitHub Profile:** [github.com/your-username](https://github.com/your-username)
-
 ---
